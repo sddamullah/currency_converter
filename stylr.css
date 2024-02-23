@@ -1,0 +1,18 @@
+.formbtn {
+  background-color: rgb(121, 6, 144) !important;
+  color: white !important;
+  border-radius: 10px !important;
+}
+.heading {
+  text-align: center;
+  font-weight: 600;
+}
+
+input:focus,
+select:focus {
+  box-shadow: none !important;
+  border-color: rgba(152, 131, 131, 0.357) !important;
+}
+.formbtn :focus {
+  box-shadow: none !important;
+}
